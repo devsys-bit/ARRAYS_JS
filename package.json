@@ -1,0 +1,12 @@
+{
+  "name": "arrays_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["arrays", "array", "array-manipulation", "javascript-arrays"],
+  "author": "DERLYS DANIEL ALVARADO MENDOZA",
+  "description": "Manipulación efectiva de array en JavaScript",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
