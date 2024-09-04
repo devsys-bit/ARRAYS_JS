@@ -1,0 +1,12 @@
+# Ignorar el directorio doc/
+doc/
+
+# Ignorar el directorio node_modules/
+node_modules/
+
+# Ignorar el archivo package-lock.json
+package-lock.json
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
